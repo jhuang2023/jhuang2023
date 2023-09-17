@@ -15,14 +15,12 @@ This repository has the code we employed for the "Tracking Disclosure Change Tra
      
  (3) **Sample Code for  More than Words: Quantifying Skepticism Toward Firm’s Fundamentals**
 
-      Status: Awaiting publication. 
+Status: Awaiting publication. 
 
-      This repository holds the code from our project titled "More than Words: Quantifying Skepticism Toward Firm’s Fundamentals." Given data permissions, I've made available code relevant to critical phases: deploying deep learning models for skepticism quantification, extracting linguistic features, and more.
-
-
+This repository holds the code from our project titled "More than Words: Quantifying Skepticism Toward Firm’s Fundamentals." Given data permissions, I've made available code relevant to critical phases: deploying deep learning models for skepticism quantification, extracting linguistic features, and more.
 
 
-- <!--
+ <!--
 **jhuang2023/jhuang2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
