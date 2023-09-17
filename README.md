@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on these three projects:
+ 🔭 I’m currently working on these projects:
 
  (1) **Python Replication: WRDS Financial Ratios**
 
