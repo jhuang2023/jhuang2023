@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭 I’m currently working on these projects:
+ ✨ I’m currently working on these projects:
 
  (1) **Python Replication: WRDS Financial Ratios**
 
@@ -21,7 +21,7 @@ This repository holds the code from our project titled "More than Words: Quantif
 
 
  <!--
-**jhuang2023/jhuang2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jhuang2023/jhuang2023** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
